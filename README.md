@@ -21,6 +21,7 @@ src/
 └─ main.jsx
 
 
+
 ## 🚀 Como rodar o projeto
 
 1. Clonar o repositório:  
