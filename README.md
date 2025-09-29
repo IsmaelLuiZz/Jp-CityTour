@@ -7,18 +7,19 @@
 
 - Navegação entre páginas sem recarregar a página (SPA) usando **React Router DOM**
 
-- ## 🗂 Estrutura do Projeto
+## 🗂 Estrutura resumida
 
 src/
 ├─ components/
-│ ├─ Header.jsx
-│ └─ Footer.jsx
+│  ├─ Header.jsx
+│  └─ Footer.jsx
 ├─ pages/
-│ ├─ Historia.jsx
-│ ├─ Praias.jsx
-│ └─ Zoologico.jsx
+│  ├─ Historia.jsx
+│  ├─ Praias.jsx
+│  └─ Zoologico.jsx
 ├─ App.jsx
 └─ main.jsx
+
 
 ## 🚀 Como rodar o projeto
 
